@@ -1,5 +1,5 @@
-- 👋 Hi, I’m  Denis Artemov
+- 👋 Hi, I’m  Denys Artemov
 - 👀 I’m interested in programming
 - 🌱 It is necessary to improve in this constantly
 - 💞️ I want to collaborate with smart people
-- 📫 Contact with me - artemov.denis@ukr.net
+- 📫 Contact with me - artemovdenys7@gmail.com
